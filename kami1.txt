@@ -4,3 +4,6 @@ mmmm
 8888
 9999
 777
+add some content to kami.txt
+2222
+
