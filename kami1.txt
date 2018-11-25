@@ -1,3 +1,5 @@
 kkkk
 llll
 mmmm
+add some content to kami.txt
+2222
